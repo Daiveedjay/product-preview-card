@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Daiveedjay/product-preview-card.git)
-- Live Site URL: [Add live site URL here](https://gorgeous-cocada-d24443.netlify.app)
+- Live Site URL: [Add live site URL here](product-preview-card-femc.netlify.app)
 
 ### Built with
 
